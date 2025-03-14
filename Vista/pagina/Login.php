@@ -3,7 +3,7 @@
     <div class="container py-6 h-100">        
         <div class="row d-flex justify-content-center align-items-center h-100">
             <div class="col col-xl-10">
-                <div class="card p-5" style="border-radius: 1rem;">
+                <div class="p-5" style="border-radius: 1rem;">
                     <div class="row g-0">
                         <div class="col-md-6 col-lg-6 d-none d-flex flex-wrap justify-content-center ">
                             <img src="Vista/Img/sidesoft.png" alt="login form" class="img-fluid" style="border-radius: 1rem 0 0 1rem;"/>
@@ -45,5 +45,5 @@
         </div>        
     </div>  
 </div>
-<footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top" style="background-color: #BB4A4F; height:90px;"></footer>
+<footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top" style="background-color: #BB4A4F; height:100px;"></footer>
 </section>
