@@ -14,5 +14,6 @@
     echo $mostrar;?>
     <script src="Vista/Framework/jQuery/jquery-3.7.1.min.js"></script>
     <script src="Vista/Framework/Bootstrap4/js/bootstrap.min.js"></script>
+    <script src="Vista/pagina/js/Login.js"></script>
 </body>
 </html>

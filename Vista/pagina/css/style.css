@@ -1,3 +1,9 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
 input[type="text"],input[type="password"],input[type="submit"]{
     border: 1px solid #A73683;
 }
