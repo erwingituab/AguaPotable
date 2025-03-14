@@ -1,0 +1,15 @@
+input[type="text"],input[type="password"],input[type="submit"]{
+    border: 1px solid #A73683;
+}
+.btnsubmit{
+    background-color: #3FB498;
+    color: #FFF;
+}
+@media screen and (min-width: 600px) {
+    .header{
+        display:none;
+    }
+    footer{
+        display: none;
+    }
+}
