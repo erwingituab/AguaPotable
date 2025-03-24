@@ -38,13 +38,22 @@ else
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./Framework/Bootstrap4/css/bootstrap-reboot.min.css">
     <link rel="stylesheet" href="./Framework/Bootstrap4/css/bootstrap-reboot.css.map">
-    <link rel="stylesheet" href="./Framework/Bootstrap4/css/bootstrap.css">    
+    <link rel="stylesheet" href="./Framework/Bootstrap4/css/bootstrap.css">
+    <link rel="stylesheet" href="pagina/css/style-index.css">    
     <title>Agua Potable</title>
 </head>
 <body>
-    <section class="">
-        
-    </section>
+    <header>
+      <div class="container">
+        <div class="container"><img src="img/logo.jpg" width="60px" height="60px" alt="Logo"><h3>SERVICIO DE AGUA POTABLE</h3></div>
+      </div>
+    </header>
+    <main>
+      <div class="container">
+
+      </div>
+    </main>
+    <footer><div class="container"></div></footer>
     <script src="./Framework//jQuery/jquery-3.7.1.min.js"></script>
     <script src="./Framework/Bootstrap4/js/bootstrap.min.js"></script>
 </body>
