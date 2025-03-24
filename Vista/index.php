@@ -36,9 +36,16 @@ else
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="./Framework/Bootstrap4/css/bootstrap-reboot.min.css">
+    <link rel="stylesheet" href="./Framework/Bootstrap4/css/bootstrap-reboot.css.map">
+    <link rel="stylesheet" href="./Framework/Bootstrap4/css/bootstrap.css">    
+    <title>Agua Potable</title>
 </head>
 <body>
-    <?php  echo $saludo;?>
+    <section class="">
+        
+    </section>
+    <script src="./Framework//jQuery/jquery-3.7.1.min.js"></script>
+    <script src="./Framework/Bootstrap4/js/bootstrap.min.js"></script>
 </body>
 </html>
