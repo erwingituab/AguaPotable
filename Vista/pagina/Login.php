@@ -1,5 +1,5 @@
 <section class="vh-100" style="background-color: #fff;">
-<header class="header d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom" style="background-color: #A73683; height:100px;"></header>    
+    
     <div class="container py-6 h-100">        
         <div class="row d-flex justify-content-center align-items-center h-100">
             <div class="col col-xl-10">
@@ -45,5 +45,5 @@
         </div>        
     </div>  
 </div>
-<footer class="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top" style="background-color: #BB4A4F; height:100px;"></footer>
+
 </section>
